@@ -5,7 +5,7 @@
 ## Controls
 Arrow keys control your car, and packages are automatically dropped and collected!
 
-## Playing Tilevania
+## Playing The Game
 Delivery Driver is hosted on a [website](https://deliverydrivergeorge.netlify.app) on netlify.
 
 ## Contacts
